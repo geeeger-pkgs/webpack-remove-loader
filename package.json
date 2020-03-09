@@ -1,0 +1,30 @@
+{
+  "name": "@geeeger/webpack-remove-loader",
+  "version": "1.0.0",
+  "description": "remove something from context",
+  "main": "index.js",
+  "author": {
+    "name": "geeeger",
+    "email": "lph1988520@sina.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeeger/webpack-remove-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/geeeger/webpack-remove-loader/issues"
+  },
+  "homepage": "https://github.com/geeeger/webpack-remove-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "schema-utils": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
